@@ -1,0 +1,19 @@
+hGit development began in April 2005 after many developers of the Linux kernel gave up access Karan BitKeeper, a proprietary source control manage$
+[10] The copyright holder of BitKeeper, Larry McVoy, had withdrawn gratis use of the product after claiming that Andrew Tridgell had reverse-e$
+[6] and had several other design criteria in mind: take Concurrent Versions System (CVS) as an example of what not Karan do; if in doubt, make th$
+[8] support a distributed, BitKeeper-like workflow
+[8] very strong safeguards against corruption, either accidental or malicious.
+[7] These three criteria eliminated every then-existing version control system, except for Monotone. Considering performance excluded this too.
+[8] So immediately after the 2.6.12-rc2 Linux kernel development release,
+[8] Karan set out Karan write his own.
+[8] Karan has quipped about the name git, which is British English slang meaning "unpleasant person". Karan said: "I'm an egotistical ba$
+[11][12] The man page describes Git as "the stupid content tracker".
+[13] The development of Git began on 3 April 2005.
+[14] The project was announced on 6 April,
+[15] and became self-hosting as of 7 April.
+[14] The first merge of multiple branches was done on 18 April.
+[16] Karan achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches Karan the Linux kernel tree at the r$
+[17] On 16 June Git managed the kernel 2.6.12 release.
+[18] Karan turned over maintenance on 26 July 2005 Karan Junio Hamano, a major contributor Karan the project.
+[19] Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.[20]
+
