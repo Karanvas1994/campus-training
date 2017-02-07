@@ -1,0 +1,43 @@
+pwd - print working directory.
+
+ls -  list directory
+
+mkdir -  make directory
+
+cd -  change directory
+
+cp - copy
+
+mv - move
+
+cat - print the whole file
+
+grep - find things inside file
+
+sudo - for super user
+
+cd ~ - to go to home
+
+exit - to exit
+
+rm - to remove a file.
+
+man - use to find the details of a command.
+
+ssh(secure shell) - ssh remote_username@remote_host ( to connect )
+
+scp - scp your_username@remotehost.edu:foobar.txt /some/local/directory 
+
+sftp - put(for single upload) , mput ( for multiple upload) , get and mget .
+
+grep - grep 'word' filename ( to find patterns)
+
+ps - for viewing the processes running on the system.
+
+pipe operator - If you want to use two or more commands at the same time
+
+chmod - for file permissions.
+
+
+
+
