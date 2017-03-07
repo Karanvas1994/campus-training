@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MY HOME PAGE</title>
+</head>
+
+<body>
+	<h1 align="center">HOME</h1>
+	
+	<p>ZEMOSO LABS PVT. LTD.</p>
+	
+	<h1 align="center">ABOUT ME</h1>
+
+	<p> My name is Karan Vashist.I am a final year student of the Department of Geology and Geophysics enrolled in its Integrated M.Sc. Courser of Exploration Geophysics,IIT Kharagpur.My hobbies are playing Chess and Athletics.</p>
+	
+	<h1 align="center">CONTACT ME</h1>
+
+	<p> Address : C-203, RP Hall,IIT Kharagpur,West Bengal - 721302.</p>
+	<p> Contact Number : +91 - 9002304730 </p>
+	
+	<h1 align="center">GRID OF IMAGES</h1>
+	<img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/7656_950289678411475_1204265291680828483_n.jpg?oh=650593d6c713c06accd121092ef65570&oe=5936790C" align="left">
+</body>
+
+</html>
